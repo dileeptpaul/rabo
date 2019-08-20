@@ -8,4 +8,6 @@ This is a simple project to know Git and Hithub together
 
 ## Deployment
 
+This is example for git diff
+
 ## How to contribute
