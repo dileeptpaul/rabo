@@ -11,3 +11,6 @@ This is a simple project to know Git and Hithub together
 This is example for git diff
 
 ## How to contribute
+
+
+Allocated to ranbo bank
